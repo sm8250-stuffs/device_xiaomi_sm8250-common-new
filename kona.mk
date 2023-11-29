@@ -341,6 +341,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libavservices_minijail \
     libavservices_minijail.vendor \
+    libstagefright_foundation-v33 \
     libavservices_minijail_vendor
 
 # Media C2 Vendor
